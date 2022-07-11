@@ -1,0 +1,59 @@
+name: 🙌 Join the group | 그룹 가입하기 🙌
+description: Feel free to join this group, if you are a member of PKNU in any form
+title: "[REQ] Please add me to this group 🙌"
+labels: ["join"]
+assignees:
+  - jmkim
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **NOTE: Your issue will be left as a public. Please DO NOT PROVIDE [TOO-MUCH INFO](https://www.reddit.com/r/kpopthoughts/comments/tyayoi/comment/i3r1xx0/?context=3) in the form.**
+
+        # [PKNU-KR](https://github.com/PKNU-KR/) membership application 
+
+        This group is not intended to serve the repositories. Most often purpose of joining this group would be a college spirit. Feel free to join this group and publish the badge on your profile 👾
+
+        All the PKNU faculty members, staffs, students and alumni will be approved.
+  - type: dropdown
+    id: position
+    attributes:
+      label: Your latest position
+      description: 직급 | Your latest position in Pukyong National University
+      multiple: false
+      options:
+        - Student (학부·대학원 재학생)
+        - Alumni (학부·대학원 졸업생)
+        - Faculty member (교원)
+        - Staff (직원)
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Your name
+      description: 이름 | Your real name
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Your school e-mail address
+      description: 학교 발급 전자메일 주소 | Your school e-mail address, to prove your association with Pukyong National University
+      placeholder: yyy@pknu.ac.kr   or   zzz@pukyong.ac.kr
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Accepted school e-mail domains:**
+
+          * `pknu.ac.kr`
+          * `pukyong.ac.kr`
+
+        **Issue a new school e-mail address:**
+
+          * [**mail.pukyong.ac.kr**](http://mail.pukyong.ac.kr/)&nbsp;&nbsp;&nbsp;&nbsp; ← 📚📖🔬 Students and alumni 🧑‍🔬🧑‍💻🧑‍🎓
+          * [**mail.pknu.ac.kr**](http://mail.pknu.ac.kr/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;← &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 Faculty members and staffs 🧑‍🏫🧑‍💼
+
+        Now all done! Welcome to [@PKNU-KR](https://github.com/PKNU-KR/) 🙌🙌🙌
