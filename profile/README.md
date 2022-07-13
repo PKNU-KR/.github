@@ -1,5 +1,7 @@
 # PUKYONG NATIONAL UNIVERSITY
 
+**_Feel free to join this group, if you are a member of PKNU in any form. Read [How to join the group](https://github.com/PKNU-KR#how-to-join-the-group)._**
+
 🏫📚📖🔬🛳⚓️🐠🎣🧑‍🏫🧑‍🎓🧑‍🔬
 
 > “NEW BEGINNING, NEW INSPIRATION”
@@ -121,7 +123,7 @@ global soceity through creative research and a liberal education.
     * **[Configurations and profiles for `eduroam` and `eduroam-WIFI6`](https://icc.pknu.ac.kr/main/17)** (in Korean)
     * **[Configurations for `PKNU-KT`](https://icc.pknu.ac.kr/main/18)** (in Korean)
 
-## How to join
+## How to join the group
 
 **Open a [new issue](https://github.com/PKNU-KR/.github/issues/new/choose) with an official school issued e-mail address.** All the PKNU faculty members, staffs, students and alumni will be approved. Note that the issue will be left as a public.
 
